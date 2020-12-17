@@ -1,0 +1,10 @@
+span.glyphicon.glyphicon-ok.scf-checkbox{float:right;display:inline-block;width:16px;height:16px;background-color:inherit}
+.scf-subscriptions-list.dropdown-menu{min-width:190px}
+.scf button.scf-subscriptions-dropdown-button{min-width:100px}
+span.scf-subscription-type{margin-left:5px}
+span.scf-subscription-type.scf-subscription-type-selected{font-weight:bold}
+.scf-subscriptions-list{padding:.2em}
+li.scf-subscription-item{padding:.5em}
+li.scf-subscription-item:hover{cursor:pointer;color:#262626;background-color:#f5f5f5}
+hr.divider{margin-top:3px;margin-bottom:5px;border:0;border-top:1px solid #eee}
+.scf-subscriptions-list.dropdown-menu .divider{height:2px;margin:4px 0;overflow:hidden;background-color:#e5e5e5}
